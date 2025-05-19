@@ -1,0 +1,2 @@
+# TruppArdito
+Bot Discord
